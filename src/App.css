@@ -1,0 +1,18 @@
+.App{
+  position: relative;
+  overflow-x: clip;
+}
+/* targetting the 1st div, so nth child(1), since the whitish effect is to be made in the div containing the header andhero section */
+.App>:nth-child(1)
+{
+  background: var(--black);
+  position: relative;
+}
+.white-gradient{
+  position: absolute;
+  width: 20rem;
+  height: 20rem;
+  background: rgba(255, 255, 255, 0.522);
+  filter: blur(100px);/*this is the reson for blurry and roundy effect, else upto above it will look like an box*/
+  border-radius: 100px;
+}
