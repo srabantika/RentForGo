@@ -27,10 +27,10 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Call</span>
-                    <span className="secondaryText">+91 7005650209</span>
+                    <span className="secondaryText">+91 8787438471</span>
                   </div>
                 </div>
-                <a href="tel:+91 7005650209" className="flexCenter button">Call now</a>
+                <a href="tel:+91 8787438471" className="flexCenter button">Call now</a>
               </div>
 
               <div className="flexColCenter mode">
@@ -40,7 +40,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">WhatsApp</span>
-                    <span className="secondaryText">+91 7005650209</span>
+                    <span className="secondaryText">+91 8787438471</span>
                   </div>
                 </div>
                 <div className="flexCenter button">WhatsApp now</div>
@@ -60,7 +60,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="flexCenter button">
-                <a href="mailto: abhisheksahaagt@gmail.com">Email Now</a></div>
+                <a href="mailto: podder.srabantika111@gmail.com">Email Now</a></div>
                   
               </div>
 
@@ -71,7 +71,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Message</span>
-                    <span className="secondaryText">+91 7005650209</span>
+                    <span className="secondaryText">+91 8787438471</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Message now</div>

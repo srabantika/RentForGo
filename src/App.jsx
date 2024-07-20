@@ -9,6 +9,7 @@ import Residencies from "./components/Residencies/Residencies";
 import Value from "./components/Value/Value";
 import SocialMedia from "./components/SocialMedia/SocialMedia";
 import { Link, Element } from 'react-scroll';
+import FloatingChatBot from "./utils/FloatingChatBot";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
          
         <div className="white-gradient" />
         <Header />
+        <FloatingChatBot/>
         <Hero />
       </div>
       <SocialMedia />
